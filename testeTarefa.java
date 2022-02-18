@@ -13,6 +13,7 @@ public class testeTarefa {
         
 
         System.out.println(e1);
+        System.out.println(e2);
 
     }
 }
