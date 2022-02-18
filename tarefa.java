@@ -4,7 +4,7 @@ public class tarefa {
     private double b;
 
 
-    public double calcularSalario(){
+    public double calcular(){
         if (tipo == 1){
             return a + b;
         }
